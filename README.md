@@ -1,6 +1,4 @@
 # HS_fusionTools
  
 ##Macros
-
-###HS_latlongToAngular
-[![LatlongToAngular](https://youtu.be/vi/bAXimme33Mk)](https://youtu.be/bAXimme33Mk)
+[![LatlongToAngular](https://img.youtube.com/vi/v=bAXimme33Mk&t=69s/0.jpg)](https://www.youtube.com/watch?v=bAXimme33Mk)
