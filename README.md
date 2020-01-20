@@ -11,5 +11,5 @@ macOS, Linux, Windows
 
 #### HS_latlongToAngular.setting 
 Convert Latitude Longitude coord to angular coord. Mainly for environment map or VR comp. 
-
+ 
 [![HS_latlongToAngular.png](./images/HS_latlongToAngular.png)
