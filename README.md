@@ -11,14 +11,14 @@ macOS, Linux, Windows
 
 #### HS_latlongToAngular.setting 
 Convert Latitude Longitude coord to angular coord. Mainly for environment map or VR comp. 
-https://www.youtube.com/watch?v=bAXimme33Mk
  
-![HS_latlongToAngular.png](./images/HS_latlongToAngular.png)
+![HS_latlongToAngular.png](./images/HS_latlongToAngular.png) 
+https://www.youtube.com/watch?v=bAXimme33Mk
  
  
  
 #### HS_envRelight.setting 
 Reflection map with Normal(World) and PointPosition passes. 
-https://www.youtube.com/watch?v=SQV2XUlhlIM
-
+ 
 ![HS_latlongToAngular.png](./images/HS_envRelight.png)
+https://www.youtube.com/watch?v=SQV2XUlhlIM
