@@ -19,7 +19,6 @@ https://www.youtube.com/watch?v=bAXimme33Mk
  
 #### HS_envRelight.setting 
 Reflection map with Normal(World) and PointPosition passes. 
-
 https://www.youtube.com/watch?v=SQV2XUlhlIM
 
 ![HS_latlongToAngular.png](./images/HS_envRelight.png)
