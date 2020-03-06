@@ -24,5 +24,5 @@ https://www.youtube.com/watch?v=bAXimme33Mk
  
 ### HS_envRelight.setting 
 ![HS_latlongToAngular.png](./images/HS_envRelight.png)  
-Reflection map with Normal(World) and PointPosition passes.   
+Reflection map with AUX World-Normal and PointPosition passes, and also requires Camera position.   
 https://www.youtube.com/watch?v=SQV2XUlhlIM
