@@ -6,7 +6,10 @@ BlackmagicDesign FUSION 16 and FUSION STUDIO 16.
 
 macOS, Linux, Windows
  
+## Install
+Copy setting file to Macros folder or just drag and drop in flow window.
 
+ 
 ## Macros
  
 
